@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "question_category": "1",
+      "category_name": "Уровень 1"
+    },
+    {
+      "question_category": "2",
+      "category_name": "Уровень 2"
+    },
+    {
+      "question_category": "3",
+      "category_name": "Уровень 3"
+    },
+
+    {
+
+    }
+  ]
+}

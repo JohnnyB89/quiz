@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748821485102",
+    "firebase_url": "https://check-yourself-cc4bb.firebaseio.com",
+    "project_id": "check-yourself-cc4bb",
+    "storage_bucket": "check-yourself-cc4bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748821485102:android:e28258b979e23ced14b1bf",
+        "android_client_info": {
+          "package_name": "ru.myandroidhelper.quizapp.checkyourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748821485102-igsued9rcq80kujifgsku1sqahgibl1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmUVt8M3TdbIIyYx2J71sMsJ1xAZJX1Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748821485102-igsued9rcq80kujifgsku1sqahgibl1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
